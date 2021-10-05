@@ -8,4 +8,4 @@ I could've made all this public, but I don't have the consent of the mentors to 
 
 Edit: This is temporarily public.
 
-P.S. [@PseudoCodeNerd](https://github.com/PseudoCodeNerd) isn't mentioned in this much, but he helped me a LOT with all of this. Madhav ily
+P.S. [@mdvsh / @PsuedoCodeNerd / @Madhav Sharma](https://github.com/mdvsh) isn't mentioned in this much, but he helped me a LOT with all of this. Madhav ily
