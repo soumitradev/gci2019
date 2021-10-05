@@ -1,0 +1,3 @@
+# Draw a scene using Cario.jl/Luxor.jl
+
+It's what it says in the title! Write a script that draws a scene using either Cairo.jl or Luxor.jl. The scene can be anything that is beyond a reasonable difficulty. Explain the code as best as you can. It can include mountains or the beach, it can be a self portrait, or even the Mona Lisa, if you are feeling a tad adventurous! Go crazy! Just don't copy other people's work
